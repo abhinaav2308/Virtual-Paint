@@ -1,0 +1,5 @@
+opencv-python==3.4.17.61
+numpy==1.19.3
+imutils
+mediapipe==0.8.8
+Flask==2.2.3
